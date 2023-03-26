@@ -7,8 +7,7 @@ public class NumberGuess {
 		
 		Scanner sc = new Scanner(System.in);
 
-		int number = 1 + (int)(100
-							* Math.random());
+		int number = 1 + (int)(100* Math.random());
 
 		int i, guess;
 
